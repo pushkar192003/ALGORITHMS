@@ -18,7 +18,6 @@ for(j=0;j<n2;j++)
 //sentinel to execute driver logic  correctly in case 1 of l or r got exhausted first ..we need to put whats left as it is in A for that we need sentinel
 L[n1]=99999;
 R[n2]=99999;
-//driver 
 i=0;
 j=0;
 for (k=p; k<=r ;k++){
